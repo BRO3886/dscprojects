@@ -1,0 +1,6 @@
+baseURL = "https://dscprojs.siddharthavarma.tech"
+languageCode = "en-us"
+title = "DSC VIT Project Repos"
+theme="smol"
+[markup.goldmark.renderer]
+  unsafe=true
